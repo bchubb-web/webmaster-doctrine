@@ -1,0 +1,12 @@
+{
+    "name": "bchubb-web/webmaster-doctrine",
+    "description": "Doctrine integration for bchubb-web/webmaster",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Billy Chubb",
+            "email": "billy@bchubb.co.uk"
+        }
+    ],
+    "require": {}
+}
