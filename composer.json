@@ -8,5 +8,10 @@
             "email": "billy@bchubb.co.uk"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Webmaster\\Doctrine\\": "src/"
+        }
+    },
     "require": {}
 }
